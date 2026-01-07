@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=hakikyy&label=Profile%20views&color=0e75b6&style=flat" alt="hakikyy" />
 </p>
 
-**Web Developer | IT Support**
+**Web Developer | IT Support | UI/UX**
 
 Passionate about creating beautiful, functional, and user-friendly web applications. I love turning ideas into reality with clean code and thoughtful design.
 
