@@ -29,8 +29,8 @@ Passionate about creating beautiful, functional, and user-friendly web applicati
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hakikyy&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hakikyy&theme=dark&hide_border=true" />
+  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=hakikyy&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /> -->
+  <!-- <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hakikyy&theme=dark&hide_border=true" /> -->
 </p>
 
 <p align="center">
@@ -42,11 +42,6 @@ Passionate about creating beautiful, functional, and user-friendly web applicati
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hakikyy/hakikyy/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 ---
 
